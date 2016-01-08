@@ -1,0 +1,12 @@
+E:\xamarin\SmallBang\Sample\obj\Debug\assemblies\Sample.dll
+E:\xamarin\SmallBang\Sample\obj\Debug\assemblies\Mono.Android.dll
+E:\xamarin\SmallBang\Sample\obj\Debug\assemblies\mscorlib.dll
+E:\xamarin\SmallBang\Sample\obj\Debug\assemblies\SmallBang.dll
+E:\xamarin\SmallBang\Sample\obj\Debug\assemblies\System.Core.dll
+E:\xamarin\SmallBang\Sample\obj\Debug\assemblies\System.dll
+E:\xamarin\SmallBang\Sample\obj\Debug\assemblies\System.Xml.dll
+E:\xamarin\SmallBang\Sample\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\xamarin\SmallBang\Sample\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+E:\xamarin\SmallBang\Sample\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+E:\xamarin\SmallBang\Sample\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\xamarin\SmallBang\Sample\obj\Debug\assemblies\System.ServiceModel.Internals.dll

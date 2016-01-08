@@ -1,0 +1,8 @@
+E:\xamarin\SmallBang\SmallBang\bin\Debug\SmallBang.dll
+E:\xamarin\SmallBang\SmallBang\bin\Debug\SmallBang.pdb
+E:\xamarin\SmallBang\SmallBang\obj\Debug\SmallBang.dll
+E:\xamarin\SmallBang\SmallBang\obj\Debug\SmallBang.pdb
+E:\xamarin\SmallBang\SmallBang\obj\Debug\SmallBang.dll.mdb
+E:\xamarin\SmallBang\SmallBang\bin\Debug\SmallBang.dll.mdb
+E:\xamarin\SmallBang\SmallBang\obj\Debug\SmallBang.dll.mdb
+E:\xamarin\SmallBang\SmallBang\bin\Debug\SmallBang.dll.mdb
